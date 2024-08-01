@@ -8,4 +8,4 @@ Its UI is console-based and from the console, users can navigate the system to:
 
   
 
-Worked on this project as part of my assigned tasks from my Python course (at New Horizon).
+(Worked on this project as part of my assigned tasks from the Python course I undertook at New Horizon)
